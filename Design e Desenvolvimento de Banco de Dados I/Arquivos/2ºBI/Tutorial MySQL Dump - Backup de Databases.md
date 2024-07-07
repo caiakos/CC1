@@ -61,12 +61,15 @@ O MySQL Shell usa a API de Document Store para realizar backups.
 Realizando um Backup
 
 Abra o MySQL Shell:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/f6bfcc25-d2c2-4d83-b59d-4748ba3a45db)
 
 Conecte-se ao servidor MySQL:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/37044b5c-b244-4624-b99f-96faf166dc56)
 
 Use a função de exportação de utilitários:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/3c2f8b98-beb5-452f-92d3-5f1b95a0b772)
 
 
@@ -78,18 +81,23 @@ Para restaurar um backup usando o MySQL Shell:
 Realizando uma Restauração
 
 Abra o MySQL Shell:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/dae54875-b8d6-4621-956b-86926697ef25)
 
 Conecte-se ao servidor MySQL:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/1b23fb0b-b96e-4c28-b796-f9c783d4ff67)
 
 Use a função de importação de utilitários:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/f520a95e-7e01-40d0-b860-c891cae280b4)
 
 Caso apresente o erro:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/9d7aaf00-328f-4652-839a-7989c6f03d60)
 
 Faça as seguintes alterações das configurações:
+
 ![image](https://github.com/caiakos/CC1/assets/104407618/ab11af44-3aea-4a81-8854-5c8027c83eee)
 
 Depois volte pro modo JS e execute novamente a importação.
